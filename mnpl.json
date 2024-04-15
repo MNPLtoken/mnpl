@@ -2,6 +2,6 @@
   "name": "Monopoly",
   "symbol": "MNPL",
   "description": "Meme token designed to financially sustain itself through investments into real estate.",
-  "image": "https://example.com/path/to/logo.png",
+  "image": "https://raw.githubusercontent.com/MNPLtoken/mnpl/main/mnplpic.jpg",
   "decimals": 9
 }
